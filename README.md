@@ -1,1 +1,4 @@
-#DPS441 G04L
+##DPS441 G04L
+
+##Jhonatan Josue Cardoza Perez CP230528
+##Nelson Otoniel Maldonado Mazanarez 
